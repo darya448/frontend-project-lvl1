@@ -1,0 +1,22 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "First project",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darya448/frontend-project-lvl1.git"
+  },
+  "type": "module",
+  "author": "darya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darya448/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/darya448/frontend-project-lvl1#readme"
+}
