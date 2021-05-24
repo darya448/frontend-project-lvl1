@@ -1,5 +1,5 @@
 name: eslint-actions
-on: [commit]
+on: commit
 jobs:
   check-bats-version:
     runs-on: ubuntu-latest
