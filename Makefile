@@ -9,3 +9,5 @@ publish:
 
 lint: 
 		npx eslint .
+brain-even: # запуск игры
+		node bin/brain-even.js
