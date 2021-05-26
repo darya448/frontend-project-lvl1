@@ -5,3 +5,5 @@
 
 
 [![Linter](https://github.com/darya448/frontend-project-lvl1/actions/workflows/node.js.yml/badge.svg)](https://github.com/darya448/frontend-project-lvl1/actions/workflows/node.js.yml)
+
+https://asciinema.org/a/ip9YmmHOAVXEhIJ7rKZaEMIKw
