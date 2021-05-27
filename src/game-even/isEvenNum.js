@@ -1,7 +1,7 @@
 const isEvenNum = (x) => {
-  if(x % 2 === 0) {
-    return 'yes'
-  } return 'no'
-}
+  if (x % 2 === 0) {
+    return 'yes';
+  } return 'no';
+};
 
-export default isEvenNum
+export default isEvenNum;

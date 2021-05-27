@@ -1,6 +1,6 @@
 import readlineSync from 'readline-sync';
 import isEvenNum from './isEvenNum.js';
-import randomNum from './randomNum.js'
+import randomNum from './randomNum.js';
 
 const gameEven = () => {
   console.log('Welcome to the Brain Games!');
@@ -10,7 +10,7 @@ const gameEven = () => {
 
   console.log('Answer "yes" if the number is even, otherwise answer "no".');
 
-  for (let i = 1; i <= 3; ) {
+  for (let i = 1; i <= 3;) {
     const num = randomNum(1, 100);
 
     const correctAnswer = isEvenNum(num);

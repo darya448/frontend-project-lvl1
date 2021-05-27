@@ -6,4 +6,3 @@ console.log('Welcome to the Brain Games!');
 const knowname = name();
 
 console.log(`Hello,${knowname}!`);
-

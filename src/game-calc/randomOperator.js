@@ -1,8 +1,8 @@
 const randomSign = () => {
-  const operators = ['+','-']
+  const operators = ['+', '-'];
 
   const randomOperator = operators[Math.floor(Math.random() * operators.length)];
-  return randomOperator
-}
+  return randomOperator;
+};
 
 export default randomSign;
