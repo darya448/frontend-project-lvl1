@@ -6,6 +6,6 @@
 
 [![Linter](https://github.com/darya448/frontend-project-lvl1/actions/workflows/node.js.yml/badge.svg)](https://github.com/darya448/frontend-project-lvl1/actions/workflows/node.js.yml)
 
-<a href="https://asciinema.org/a/ip9YmmHOAVXEhIJ7rKZaEMIKw" target="_blank"><img src="https://asciinema.org/a/ip9YmmHOAVXEhIJ7rKZaEMIKw.svg" /></a>
+https://asciinema.org/a/ip9YmmHOAVXEhIJ7rKZaEMIKw (even-game)
 
-<a href="https://asciinema.org/a/EmxAS1pq0SMcd4anqEu90LKoP" target="_blank"><img src="https://asciinema.org/a/EmxAS1pq0SMcd4anqEu90LKoP.svg" /></a>
+https://asciinema.org/a/EmxAS1pq0SMcd4anqEu90LKoP (calc)
