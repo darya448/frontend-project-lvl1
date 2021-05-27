@@ -1,6 +1,6 @@
 import readlineSync from 'readline-sync';
-import { randomNum1 } from './randomNums.js';
-import { randomNum2 } from './randomNums.js';
+import { randomNum1 } from './randomNum1.js';
+import { randomNum2 } from './randomNum2.js';
 import randomSign from './randomOperator.js';
 import rightAnswer from './rightAnswer.js';
 
