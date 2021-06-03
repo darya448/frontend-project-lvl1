@@ -9,3 +9,7 @@
 https://asciinema.org/a/ip9YmmHOAVXEhIJ7rKZaEMIKw (even-game)
 
 https://asciinema.org/a/EmxAS1pq0SMcd4anqEu90LKoP (calc)
+
+https://asciinema.org/a/kBDrcmWWZJYvWC517shG0LP3j (progression)
+
+https://asciinema.org/a/7mRprJYrbXmDFvG6jdW3YYuek (prime)
