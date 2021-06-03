@@ -13,7 +13,6 @@ const getIsPrime = (num) => {
   return 'yes';
 };
 
-
 const gamePrime = () => {
   console.log('Welcome to the Brain Games!');
 
@@ -23,7 +22,6 @@ const gamePrime = () => {
   console.log('Answer "yes" if given number is prime. Otherwise answer "no".');
 
   for (let i = 1; i <= 3;) {
-
     const expression = getRandomNumber(1, 100);
 
     console.log(`Question: ${expression}`);
@@ -31,8 +29,7 @@ const gamePrime = () => {
     const answer = readlineSync.question('Your answer: ');
     const correctAnswer = getIsPrime(expression);
 
-    if (answer === correctAnswer)
-      {
+    if (answer === correctAnswer) {
       console.log('Correct!');
       i += 1;
     } else {

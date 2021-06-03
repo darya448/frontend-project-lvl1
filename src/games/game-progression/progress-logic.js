@@ -30,9 +30,9 @@ const gameProgress = () => {
     console.log(`Question: ${arrayProgression}`);
 
     const correctValue = firstNumArray + randomLocationSign * stepNumArray;
-    
+
     const answer = (readlineSync.question('Your answer: '));
-    
+
     const correctAnswer = String(correctValue);
 
     if (answer === correctAnswer) {
@@ -47,8 +47,3 @@ const gameProgress = () => {
 };
 
 export default gameProgress;
-
-
-
- 
-
