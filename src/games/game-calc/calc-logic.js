@@ -16,7 +16,7 @@ const gameCalc = () => {
     const b = getRandomNum(1, 100);
     const operator = randomSign();
 
-    const expression = `${a + operator + b}`;
+    const expression = `${a} ${operator} ${b}`;
 
     console.log(`Question: ${expression}`);
 
